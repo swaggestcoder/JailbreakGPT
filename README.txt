@@ -8,4 +8,6 @@ After "Prompt:" add your prompt. If it doesnt work you can can try these things:
 - Keep trying.
 - Try a diffrent prompt.
 
-Direct access to prompt: https://github.com/swaggestcoder/JailbreakGPT/blob/main/Prompt
+Direct access to prompt github: https://github.com/swaggestcoder/JailbreakGPT/blob/main/Prompt
+OR:
+Direct access to prompt pastebin: https://pastebin.com/hXRRc3L3
