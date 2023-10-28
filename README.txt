@@ -7,3 +7,5 @@ After "Prompt:" add your prompt. If it doesnt work you can can try these things:
 - Clear your chats.
 - Keep trying.
 - Try a diffrent prompt.
+
+Direct access to prompt: https://github.com/swaggestcoder/JailbreakGPT/blob/main/Prompt
